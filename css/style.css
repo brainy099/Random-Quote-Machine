@@ -1,0 +1,38 @@
+html,body {
+  margin:0px;
+  padding:0px;
+  width:100%;
+  background-color : #D5F5E3;
+}
+
+.title {
+  font-family: 'Orbitron', sans-serif;
+}
+
+#runquote {
+  font-family: 'Carter One', cursive;
+}
+
+#author {
+  font-family: 'Lalezar', cursive;;
+}
+
+.quote-text {
+  font-family: 'Itim', cursive;
+}
+
+.container-fluid {
+  margin : 2%;
+}
+
+#quote {
+  margin : 2%;
+  border: solid 2px ;
+  padding: 1%;
+}
+
+#footer {
+  text-align: right;
+  margin-top: 10%;
+  padding: 2%;
+}
